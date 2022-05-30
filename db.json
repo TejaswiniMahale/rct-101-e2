@@ -70,6 +70,35 @@
       "price": "300",
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 9
+    },
+    {
+      "title": "Teju123",
+      "category": "shirt",
+      "gender": "female",
+      "price": "3412",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 10
+    },
+    {
+      "gender": "female",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 11
+    },
+    {
+      "gender": "female",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 12
+    },
+    {
+      "gender": "female",
+      "price": "6",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 13
+    },
+    {
+      "gender": "female",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 14
     }
   ]
 }
